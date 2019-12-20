@@ -8,4 +8,3 @@ class Artist
  
 end
 
-song.artist.name
